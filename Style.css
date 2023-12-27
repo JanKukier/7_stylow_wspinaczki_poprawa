@@ -101,6 +101,7 @@ table{
 			border-color:red;
 			border-style:dashed;
 			border-width:2px;
+			word-break:break-all;
 		}
 		iframe{
 			width:100%;
